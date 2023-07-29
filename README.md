@@ -44,6 +44,7 @@ Start the server
 - Fullscreen mode
 - Cross platform
 - Submenu Features
+- Filtered items
 
 
 ## Tech Stack
@@ -51,14 +52,15 @@ Start the server
 **Client:** React,React Hooks, React-Router, TailWindCSS
 
 
-## Demo
+## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![image](https://github.com/surazgaundel/CockTailParty/assets/58950508/34901787-325e-4028-97c2-eeba45b13311)
+
 
 
 ## Lessons Learned
 
-Integration of useReducer in cart system.
+Integration of React-router, context api in component.
 
 
 ## Feedback
