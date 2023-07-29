@@ -1,7 +1,11 @@
-import React from 'react'
+import { CocktailList } from './CocktailList';
+import { SearchText } from './SearchText';
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <main>
+        <SearchText/>
+        <CocktailList/>
+    </main>
   )
 }
