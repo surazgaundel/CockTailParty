@@ -75,19 +75,19 @@ if (loading) {
       <img className='h-72 md:w-72 w-full m-2 object-cover rounded-md mx-2' src={image} alt={name}/>
       <div className='border-2 rounded-md bg-slate-200 px-2 h-72 py-1 items-center justify-center'>
         <p>
-          <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>name :</span> {name}
+             <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>name :</span> {name}
         </p>
         <p>
-          <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>category :</span> {category}
+            <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>category :</span> {category}
         </p>
         <p>
-          <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>info :</span> {info}
+            <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>info :</span> {info}
         </p>
         <p>
-          <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>glass :</span> {glass}
+            <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>glass :</span> {glass}
         </p>
         <p>
-          <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>instructons :</span> {instructions}
+            <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>instructons :</span> {instructions}
         </p>
         <p>
           <span className='capitalize font-semibold leading-8 bg-slate-50 px-1 rounded-md'>ingredients :</span>
