@@ -54,13 +54,6 @@ Start the server
 **Client:** React,React Hooks, React-Router, TailWindCSS
 
 
-
-## Screenshots
-
-![image](https://github.com/surazgaundel/CockTailParty/assets/58950508/34901787-325e-4028-97c2-eeba45b13311)
-
-
-
 ## Lessons Learned
 
 Integration of React-router, context api in component.
