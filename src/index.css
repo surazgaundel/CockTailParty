@@ -19,7 +19,7 @@
 .active{
   color:var(--navyblue);
 
-  &:hover{
-    text-decoration:underline;
-  }
+}
+.active:hover{
+  text-decoration:underline;
 }
