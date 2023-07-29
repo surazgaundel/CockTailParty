@@ -1,7 +1,9 @@
 
-
 # Bubble Bell
 Bubble Bell is the ultimate party app for anyone who loves to mix up delicious cocktails and mocktails. With its easy-to-use interface and access to the hilarious Cocktails DB API, Bubble Bell makes it easy to find and create the perfect drink for any occasion.
+
+## Demo
+Check out on https://bubblebell.netlify.app/
 
 ## Installation
 
@@ -51,8 +53,7 @@ Start the server
 
 **Client:** React,React Hooks, React-Router, TailWindCSS
 
-##Demo
-Check out on https://bubblebell.netlify.app/
+
 
 ## Screenshots
 
