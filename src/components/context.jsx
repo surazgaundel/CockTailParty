@@ -6,7 +6,7 @@ const AppContext=createContext();
 
 const AppProvider=({children})=>{
     const [loading,setLoading]=useState(false);
-    const [searchText,setSearchText]=useState('aasdasd');
+    const [searchText,setSearchText]=useState('a');
     const [cocktails, setCocktails]=useState([]);
 
     const fetchDrinks=async()=>{
@@ -34,6 +34,7 @@ const AppProvider=({children})=>{
                     }
                 })
                 setCocktails(newCocktails)
+                setLoading(false)
             }else{
                 setCocktails([])
                 setLoading(false);

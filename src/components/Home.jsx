@@ -3,9 +3,9 @@ import { SearchText } from './SearchText';
 
 export default function Home() {
   return (
-    <main>
+    <div>
         <SearchText/>
         <CocktailList/>
-    </main>
+    </div>
   )
 }
