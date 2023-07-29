@@ -15,7 +15,7 @@ function App() {
         <Route path='/' element={<NavBar/>}>
             <Route index element={<Home/>}/>
             <Route path='about' element={<About/>}/>
-            <Route path='cocktail/:id' element={<SingleCockTail/>}/>
+            <Route path='cocktails/:id' element={<SingleCockTail/>}/>
             <Route path='newsletter' element={<Newsletter/>}/>
             <Route path='*' element={<Error/>}/>
         </Route>

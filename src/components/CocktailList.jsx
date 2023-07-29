@@ -29,7 +29,7 @@ return(
                         <h1 className="font-bold">{name}</h1>
                         <h3>{glass}</h3>
                         <h2>{info}</h2>
-                        <button onClick={()=>navigate(`cocktails/${id}`)} className='border-2 px-2 py-1 rounded-md bg-white font-semibold mt-1 hover:bg-gray-100'>Details</button>
+                        <button onClick={()=>navigate(`/cocktails/${id}`)} className='border-2 px-2 py-1 rounded-md bg-white font-semibold mt-1 hover:bg-gray-100'>Details</button>
                     </section>
                 </div>)
             })}
